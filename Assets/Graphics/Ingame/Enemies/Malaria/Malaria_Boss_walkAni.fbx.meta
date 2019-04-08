@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 5707dd14f1d66084d9909b5e8eb686ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bL_Maggot_curve
+    100002: bL_maggotJoint1
+    100004: bL_maggotJoint2
+    100006: bL_maggotJoint3
+    100008: bL_maggotJoint4
+    100010: bL_maggotJoint5
+    100012: bL_wingJoint
+    100014: bL_wingJoint_end
+    100016: bR_Maggot_curve
+    100018: bR_maggotJoint1
+    100020: bR_maggotJoint2
+    100022: bR_maggotJoint3
+    100024: bR_maggotJoint4
+    100026: bR_maggotJoint5
+    100028: bR_wingJoint
+    100030: bR_wingJoint_end
+    100032: L_armJoint1
+    100034: L_armJoint2
+    100036: L_armJoint3
+    100038: L_armJoint4
+    100040: Malaria_Boss_Enemy
+    100042: //RootNode
+    100044: R_armJoint1
+    100046: R_armJoint2
+    100048: R_armJoint3
+    100050: R_armJoint4
+    100052: rootJoint
+    100054: spineJoint1
+    100056: spineJoint2
+    100058: spineJoint3
+    100060: tL_Maggot_curve
+    100062: tL_maggotJoint1
+    100064: tL_maggotJoint2
+    100066: tL_maggotJoint3
+    100068: tL_maggotJoint4
+    100070: tL_maggotJoint5
+    100072: tL_wingJoint
+    100074: tL_wingJoint_end
+    100076: tR_Maggot_curve
+    100078: tR_maggotJoint1
+    100080: tR_maggotJoint2
+    100082: tR_maggotJoint3
+    100084: tR_maggotJoint4
+    100086: tR_maggotJoint5
+    100088: tR_wingJoint
+    100090: tR_wingJoint_end
+    400000: bL_Maggot_curve
+    400002: bL_maggotJoint1
+    400004: bL_maggotJoint2
+    400006: bL_maggotJoint3
+    400008: bL_maggotJoint4
+    400010: bL_maggotJoint5
+    400012: bL_wingJoint
+    400014: bL_wingJoint_end
+    400016: bR_Maggot_curve
+    400018: bR_maggotJoint1
+    400020: bR_maggotJoint2
+    400022: bR_maggotJoint3
+    400024: bR_maggotJoint4
+    400026: bR_maggotJoint5
+    400028: bR_wingJoint
+    400030: bR_wingJoint_end
+    400032: L_armJoint1
+    400034: L_armJoint2
+    400036: L_armJoint3
+    400038: L_armJoint4
+    400040: Malaria_Boss_Enemy
+    400042: //RootNode
+    400044: R_armJoint1
+    400046: R_armJoint2
+    400048: R_armJoint3
+    400050: R_armJoint4
+    400052: rootJoint
+    400054: spineJoint1
+    400056: spineJoint2
+    400058: spineJoint3
+    400060: tL_Maggot_curve
+    400062: tL_maggotJoint1
+    400064: tL_maggotJoint2
+    400066: tL_maggotJoint3
+    400068: tL_maggotJoint4
+    400070: tL_maggotJoint5
+    400072: tL_wingJoint
+    400074: tL_wingJoint_end
+    400076: tR_Maggot_curve
+    400078: tR_maggotJoint1
+    400080: tR_maggotJoint2
+    400082: tR_maggotJoint3
+    400084: tR_maggotJoint4
+    400086: tR_maggotJoint5
+    400088: tR_wingJoint
+    400090: tR_wingJoint_end
+    2100000: Boss_lambert
+    4300000: Malaria_Boss_Enemy
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Malaria_Boss_Enemy
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

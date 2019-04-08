@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: ee3df979b8dbf4b4f8bdac2898afdf6f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Big_Left_Tntcl_curve
+    100002: Big_Left_Tntcl_Joint1
+    100004: Big_Left_Tntcl_Joint10
+    100006: Big_Left_Tntcl_Joint11
+    100008: Big_Left_Tntcl_Joint12
+    100010: Big_Left_Tntcl_Joint13
+    100012: Big_Left_Tntcl_Joint14
+    100014: Big_Left_Tntcl_Joint2
+    100016: Big_Left_Tntcl_Joint3
+    100018: Big_Left_Tntcl_Joint4
+    100020: Big_Left_Tntcl_Joint5
+    100022: Big_Left_Tntcl_Joint6
+    100024: Big_Left_Tntcl_Joint7
+    100026: Big_Left_Tntcl_Joint8
+    100028: Big_Left_Tntcl_Joint9
+    100030: Big_Right_Tntcl_curve
+    100032: Big_Right_Tntcl_Joint1
+    100034: Big_Right_Tntcl_Joint10
+    100036: Big_Right_Tntcl_Joint11
+    100038: Big_Right_Tntcl_Joint12
+    100040: Big_Right_Tntcl_Joint2
+    100042: Big_Right_Tntcl_Joint3
+    100044: Big_Right_Tntcl_Joint4
+    100046: Big_Right_Tntcl_Joint5
+    100048: Big_Right_Tntcl_Joint6
+    100050: Big_Right_Tntcl_Joint7
+    100052: Big_Right_Tntcl_Joint8
+    100054: Big_Right_Tntcl_Joint9
+    100056: body_Joint
+    100058: btmMouth_Joint_left
+    100060: btmMouth_Joint_mid
+    100062: btmMouth_Joint_right
+    100064: head_Joint1
+    100066: head_Joint2
+    100068: head_Joint_end
+    100070: jaw_Joint
+    100072: left_Tntcl_curve
+    100074: left_Tntcl_Joint1
+    100076: left_Tntcl_Joint10
+    100078: left_Tntcl_Joint2
+    100080: left_Tntcl_Joint3
+    100082: left_Tntcl_Joint4
+    100084: left_Tntcl_Joint5
+    100086: left_Tntcl_Joint6
+    100088: left_Tntcl_Joint7
+    100090: left_Tntcl_Joint8
+    100092: left_Tntcl_Joint9
+    100094: //RootNode
+    100096: Makrophagen_Tower
+    100098: right_Tntcl_curve
+    100100: right_Tntcl_Joint1
+    100102: right_Tntcl_Joint10
+    100104: right_Tntcl_Joint2
+    100106: right_Tntcl_Joint3
+    100108: right_Tntcl_Joint4
+    100110: right_Tntcl_Joint5
+    100112: right_Tntcl_Joint6
+    100114: right_Tntcl_Joint7
+    100116: right_Tntcl_Joint8
+    100118: right_Tntcl_Joint9
+    100120: root_Joint
+    100122: SNAP_Joint
+    100124: sup_Joint1
+    100126: sup_Joint2
+    100128: sup_Joint3
+    100130: sup_Joint4
+    100132: topMouth_Joint_left
+    100134: topMouth_Joint_mid
+    100136: topMouth_Joint_right
+    400000: Big_Left_Tntcl_curve
+    400002: Big_Left_Tntcl_Joint1
+    400004: Big_Left_Tntcl_Joint10
+    400006: Big_Left_Tntcl_Joint11
+    400008: Big_Left_Tntcl_Joint12
+    400010: Big_Left_Tntcl_Joint13
+    400012: Big_Left_Tntcl_Joint14
+    400014: Big_Left_Tntcl_Joint2
+    400016: Big_Left_Tntcl_Joint3
+    400018: Big_Left_Tntcl_Joint4
+    400020: Big_Left_Tntcl_Joint5
+    400022: Big_Left_Tntcl_Joint6
+    400024: Big_Left_Tntcl_Joint7
+    400026: Big_Left_Tntcl_Joint8
+    400028: Big_Left_Tntcl_Joint9
+    400030: Big_Right_Tntcl_curve
+    400032: Big_Right_Tntcl_Joint1
+    400034: Big_Right_Tntcl_Joint10
+    400036: Big_Right_Tntcl_Joint11
+    400038: Big_Right_Tntcl_Joint12
+    400040: Big_Right_Tntcl_Joint2
+    400042: Big_Right_Tntcl_Joint3
+    400044: Big_Right_Tntcl_Joint4
+    400046: Big_Right_Tntcl_Joint5
+    400048: Big_Right_Tntcl_Joint6
+    400050: Big_Right_Tntcl_Joint7
+    400052: Big_Right_Tntcl_Joint8
+    400054: Big_Right_Tntcl_Joint9
+    400056: body_Joint
+    400058: btmMouth_Joint_left
+    400060: btmMouth_Joint_mid
+    400062: btmMouth_Joint_right
+    400064: head_Joint1
+    400066: head_Joint2
+    400068: head_Joint_end
+    400070: jaw_Joint
+    400072: left_Tntcl_curve
+    400074: left_Tntcl_Joint1
+    400076: left_Tntcl_Joint10
+    400078: left_Tntcl_Joint2
+    400080: left_Tntcl_Joint3
+    400082: left_Tntcl_Joint4
+    400084: left_Tntcl_Joint5
+    400086: left_Tntcl_Joint6
+    400088: left_Tntcl_Joint7
+    400090: left_Tntcl_Joint8
+    400092: left_Tntcl_Joint9
+    400094: //RootNode
+    400096: Makrophagen_Tower
+    400098: right_Tntcl_curve
+    400100: right_Tntcl_Joint1
+    400102: right_Tntcl_Joint10
+    400104: right_Tntcl_Joint2
+    400106: right_Tntcl_Joint3
+    400108: right_Tntcl_Joint4
+    400110: right_Tntcl_Joint5
+    400112: right_Tntcl_Joint6
+    400114: right_Tntcl_Joint7
+    400116: right_Tntcl_Joint8
+    400118: right_Tntcl_Joint9
+    400120: root_Joint
+    400122: SNAP_Joint
+    400124: sup_Joint1
+    400126: sup_Joint2
+    400128: sup_Joint3
+    400130: sup_Joint4
+    400132: topMouth_Joint_left
+    400134: topMouth_Joint_mid
+    400136: topMouth_Joint_right
+    2100000: Makrophagen_Phong
+    4300000: Makrophagen_Tower
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Makrophagen_Tower
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Makrophagen_Phong
+    second: {fileID: 2100000, guid: bdebef1f53dc0744fb2f24690974f841, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
